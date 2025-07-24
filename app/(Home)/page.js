@@ -16,7 +16,7 @@ const LandingPage = () => {
                 <p className="mt-4 max-w-screen-sm text-gray-400 text-sm md:text-base md:mt-10">
                     Aply.ai lets you design an elegant, job-ready resume — no login required.
                     <span className="hidden md:inline">
-                        Just fill out your info, export a polished PDF, and start applying. Optimized for ATS systems and modern hiring tools.
+                        Just fill out your info, export a polished PDF, and start applying. Optimized for ATS systems and modern hiring tools. Tool by Dev Oza and AprmAi
                     </span>
                 </p>
 
